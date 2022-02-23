@@ -1,0 +1,1160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Graces, to be said at the table before and after meat Very necessary for young people and children, with morning and evening prayer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41743</idno>
+            <idno type="STC">Wing G1476A</idno>
+            <idno type="STC">ESTC R177582</idno>
+            <idno type="EEBO-CITATION">99827646</idno>
+            <idno type="PROQUEST">99827646</idno>
+            <idno type="VID">32069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Graces, to be said at the table before and after meat Very necessary for young people and children, with morning and evening prayer.</title>
+               </titleStmt>
+               <extent>[48] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Bell, and are to be sold at the east-end of Christ-Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first and last leaves contain the same woodcuts.</note>
+                  <note>Running title reads: A book of graces.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:32069:1"/>
+            <pb facs="tcp:32069:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:32069:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32069:2" rendition="simple:additions"/>
+            <p>GRACES, To be ſaid at the Table before and after MEAT.</p>
+            <p>Very neceſſary for Young People and Children,</p>
+            <p>With Morning and Evening PRAYER.</p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 10.13.</hi>
+               </bibl> Whether ye eat, or drinke, or whatſoever ye do, do all to the praiſe and glory of God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by J. BELL, and are to be ſold at the Eaſt-end of Chriſt-Church. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:32069:3" rendition="simple:additions"/>
+            <pb facs="tcp:32069:3"/>
+            <head>
+               <hi>In the Morning, when you ariſe, Say,</hi> I riſe in the name of the father, and of the Son, and of the Holy Ghoſt. <hi>Amen.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Vr Father which are in heaven, hallowed be thy name. Thy Kingdome come. Thy will be done in earth as it is in heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us: And lead us not into temptation. But deliver us from e<g ref="char:EOLhyphen"/>vill. For thine is the Kingdome, the power and the glory, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <p>ALmighty and everlaſting God, vouchſafe (hee beſéech thée) to grant us perfect con<g ref="char:EOLhyphen"/>tinance in thy lively Faith augmenting the ſame in us daily, till we grow to the full <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ſure of our perfection in Chriſt, whereof he make our coneſſion, ſaying,</p>
+            <pb facs="tcp:32069:4"/>
+            <p>
+               <hi>I</hi> Beleeve in GOD the Father Almightie, Maker of Heaven and Earth, and in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus Chriſt his onely Son our Lord, Which was conceived by the Holie Ghoſt, Borne of the Virgin Marie, ſuffered under Pon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Pi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te, was Crucified, dead, and buried. He deſcended into Hell. The th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d day <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againe from the dead. He aſcended in to Heaven, and ſitteth at the right hand of God the Father Almighty From thence he ſhall come to judge the quicke and the dead.</p>
+            <p>I beleeve in the holy Ghoſt. The holy C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hr<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Church. The Communion of Saints. The forgiveneſſe of ſins. The reſurrection of body. And life everlſting. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="ten_commandments">
+            <head>The tenne Commandements of Almighty GOD.</head>
+            <p>
+               <hi>I</hi> Am the Lord thy God which hath brought thee out of the Land of <hi>Egypt,</hi> out of the houſe of bondage.</p>
+            <p n="1">i. Thou ſhalt have no other Gods but me</p>
+            <p n="2">ij. Thou ſhalt not make to thy ſelf any gra<g ref="char:EOLhyphen"/>ven Image, nor the likeneſſe of any thing that is in Heaven above, or in the Earth beneath or in the water under the Earth, Thou ſhalt not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow downe to them nor worſhip them: For I the Lord thy God am a Iealous god and viſit
+<pb facs="tcp:32069:4"/> the ſinnes of rhe Fathers upon the Children, unto the third and forth generation, of them that hate me and ſhew mercie unto thouſands, in them that love me and keepe my Comman<g ref="char:EOLhyphen"/>dements.</p>
+            <p n="3">iij. Thou ſhalt not take the name of the Lord thy God in vaine, for the Lord wil not ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him guilſſes that take his name in vaine.</p>
+            <p n="4">iiij. Remember thou kéepe holy the Sab<g ref="char:EOLhyphen"/>bath day: ſix daies thou ſhalt laher and do all that thou haſt to do, but the ſeventh day is thf Sabbath of the Lord thy God, in it thou ſhalt do no manner of work, thou and thy Son and thy Daughter, thy Man-ſervant, and thy Maid-ſervand, thy Cattell, and the Stanger that is within thy gates, for in ſix daies the Lord made heaven and earth, the ſea and all that in them is, &amp; reſted the ſeventh day, wherefore the Lord bleſſed the ſeventh day, and hollowed it.</p>
+            <p n="5">v. Honour thy Father and Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, that thy daies may be long in the land which the Lord thy God giveth thée.</p>
+            <p n="6">vi. Thov ſhalt do no Murther.</p>
+            <p n="7">vij. Thou ſhalt not commit Adultry.</p>
+            <p n="8">viij. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u ſhalt not ſteale.</p>
+            <p n="9">ix. Thou ſhalt not bare falſe witneſſe a<g ref="char:EOLhyphen"/>gainſt thy Neighbour.</p>
+            <p n="10">x Thou ſhalt not couit thy Neighbours
+<pb facs="tcp:32069:5"/> houſe, thou ſhalt not covit thy neighbours wife nor his ſervant, nor his maid, nor his oxe, nor his Aſſe, nor any thing that is his.</p>
+            <p>
+               <hi>The Law was given by Moſes, but grace and truth came by Jeſus Chriſt. <hi>John</hi> 1.17.</hi>
+            </p>
+            <p>
+               <hi>The Law was ordained by the Angels in the hand of a Mediatour, <hi>Gal.</hi> 3.19. <hi>Act.</hi> 17.53.</hi>
+            </p>
+            <p>LEt thy mighty hand and out ſtretched arm (O Lord) be ſtill our defence, the mercy and loving kindneſſe (in Ieſus Chriſt thy dear Son) our ſalvation thy true and holy Word our inſtruction, thy grace and holy ſpirit, our comfort and conſolation, unto the end, and in the end. So be it.</p>
+            <p>THe Lord bleſſe us and ſave us, the Lord make his face to ſhine upon us and be mer<g ref="char:EOLhyphen"/>cifull unto us: and grant us his peace. <hi>Aman.</hi>
+            </p>
+            <p>THe grace of our Lord Ieſus Chriſt, and the love of God, and the moſt comfortable fel<g ref="char:EOLhyphen"/>lowſhip of the holy Ghoſt, be with us all. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="graces">
+            <pb facs="tcp:32069:5"/>
+            <head>Sundry <hi>Graces</hi> to be uſed before Meates.</head>
+            <div type="grace">
+               <head>Grace before meat.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lmighty GOD, Father of our Lord Ieſus Chriſt, we beſéech thée to have mercy upon us: bleſſe (O Lord) theſe thy good Creatures which thou haſt provided for our ſuſtinance; and give us grace to be thankfull unto thée for the ſame, and all other thy bleſſings beſtowed upon us, through Ieſus Chriſt our Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>BLeſſed God, which by thy word haſt fram'd the world, and all things contained therein we humbly beſéech thée to have mercy upon us; make us thankefull unto thée for theſe thy good gifts which we are about to receive at thy boun<g ref="char:EOLhyphen"/>tifull hands, through the merits of our Lord and Saviour Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:6"/>
+               <head>Graces before Meat.</head>
+               <p>GOod Lord bleſſe us, and theſe thy gracious gifts which thou haſt provided for us to ſtrengthen and nuriſh our weake bodies, where<g ref="char:EOLhyphen"/>by we may he refreſhed and comforted: &amp; grant that as we grow in ſtrenth by them, ſo like<g ref="char:EOLhyphen"/>wiſe we may increaſe in grace (that after this life ended, we may be partakers of thy heavenly Table, through the mediation of thine onlie Son one bleſſed Lord and Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before meat.</head>
+               <p>GLorie ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uar and praiſe be given to thée, O Lord which haſt fed us from our ten<g ref="char:EOLhyphen"/>der age, and giveſt ſuſtenance to evere living thing, repleniſh our hearts with joy and glad<g ref="char:EOLhyphen"/>neſſe that we alwaies having ſufficient, may be rich and plentifull in all good works, through our Lord Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>GReat God, which be thy power in the holie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rophet (didſt increaſe and multiplie the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re of the poore Widow bleſs, we beſeech thee theſe our meats and drinkes and increaſe in us the knowledge of thy truth in love &amp; obediede, that we having a lively Faith in thee, we may
+<pb facs="tcp:32069:6"/> ever ſerve and honour thee, in all our thoughts and actions, through Ieſus Chriſt our onelie Lord and bleſſed Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace beford Meat.</head>
+               <p>IMmortall and everlaſting God, which for us moſt wretched and ſinfull men haſt cleanſed thy Creatures and made them fit for our uſe and ſuſtenance grant (we humbly beſeech thée) that with moderation and temperance, we may ſo taſte of theſe thy benefits here preſent before us, that we may ever hereafter be made more willing and able to do thée ſervice, through Ie<g ref="char:EOLhyphen"/>ſus Chriſt our onely Lord and Saviour <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>LEt us with loving &amp; obedient hearts pre<g ref="char:EOLhyphen"/>pare our ſelves to give all humble thanks unto our heavenlie Father, who of his moſt bountiful goodneſſe, hath heare prepared Meat and Drink for our neceſſity in hungrin to give us an example of like kindneſſe for his love to our poore nighbours, redemed by Chriſt Ie<g ref="char:EOLhyphen"/>ſus, who ever bleſſe us and theſe his gifts that both our eating, and drinking, and ſpeakin, may redound to the glory of God, through the merit of Ieſus Chriſt our Lord and onelie Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:7"/>
+               <head>Grace before Meat.</head>
+               <p>
+                  <hi>O</hi> Almighty and everlaſting God, which by thy <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oreknowledg doeſt ſee the begin<g ref="char:EOLhyphen"/>ning, middeſt, and end of all the works of thy holy hand, and dideſt make Man according to thine owne Image, and brethedſt into him an immortall foule, and gaveſt him underſtanding to know thee to be his God, and Creator of all things in heaven and earth, and dideſt ordaine Man to be Lord over the workes of thy hands, and to receive all things neceſſary for the ſuſtentation of his mortal bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (of thy goodnes) with thanks giving, we mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t humbly beſéech thee, of thy mercifull goodneſſe, to bleſſe and ſa<g ref="char:EOLhyphen"/>tisfie us with thy holy preſence, that we may be the more moved to be thankfull unto thee for all the good gifts which we rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ived at thy merci<g ref="char:EOLhyphen"/>full hand, through Ieſus Chriſt our onely Sa<g ref="char:EOLhyphen"/>viour. To whom, with thée (O Father) and the holy Ghoſt, be all honour, praiſe and glory, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>
+                  <hi>O</hi> Father of mercy, and God of all conſola<g ref="char:EOLhyphen"/>tion, which haſt created us for thy glory, and theſe <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y good Creatures for our uſe: bleſſe and ſanctifie them (we beſeech thée) that by the
+<pb facs="tcp:32069:7"/> moderate rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ived thereof, our bodies may be nuriſhed, and thy name ever more and more praiſed through Ieſus Chriſt our onely Lord and bleſſed Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>
+                  <hi>O</hi> Ieſus Chriſt the Sonne of God, that for our ſakes didſt die, and ſheddeſt thy moſt precious blood for the forgivenneſſe of our ſins: bleſſe thou our Meat and Drink which we pur<g ref="char:EOLhyphen"/>poſe to receive in thy name and aſſiſt us (O Lord) with the grace of thy holy ſpirit, to amend our lives, that according to thy holy and pure Goſpell we may live to thy glorie, and profit of our Brethren. And when the dayes of this our Pilgrimage ſhall be ended, grant us to reſt in thy peace, that we may at the day of Iudgment h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve joyfull reſurrection unto everlaſting life, through thy moſt precious death, which art the onelie Sonne of God and our everlaſting Saviour. To whom with the Father and the holy Ghoſt, be all honour, glory and praiſe, for ever and ever. Amen.</p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>
+                  <hi>O</hi> Mercifull Lord Ieſus Chriſt, which didſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake five Loaves and two Fiſhes and lif<g ref="char:EOLhyphen"/>ting up thine eies unto heaven didſt diſtribute
+<pb facs="tcp:32069:8"/> them unto the people, and they all did eat and were ſatisfied being aboue five thouſand men beſide women and children, we beſeech thée how to bleſſe theſe gifts which we are about to re<g ref="char:EOLhyphen"/>ceive at the hands and us allſo, that they may be to the comfort and health of our bodies, and we may (for them and all other thy benefits) bée evermore thankfull unto thee: To whom with the Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er and the holie Ghoſt, be all honour and glorie for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>THe eies of all things d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> look up and truſt in thée (O Lord) thou giveſt them meat in drie ſeaſon, thou o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneſt thy hand, and filles with thy bleſſing everie living thing: good Lord bleſſe us, and all theſe thy gifts, which we are about to receive of thy bounteous liberalitie, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>THe God of all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower, who hath caled from death the great Paſtor of the Sheep (the Lord) Ieſus comfort and defend the Flock which he hath redeemed by the blood of his eter<g ref="char:EOLunhyphen"/>nall Teſtament: Increaſe the number of true Preachers: repreſſe the rage of obſtinant and cruell <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ira<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s: mitigate and lighten the
+<pb facs="tcp:32069:8"/> hearts of the ignorant: releaſe the paines of ſuch as be afflicted, but eſpecially thoſe that ſuffer for the teſtimonie of a good Conſcience: And finally, confound Satan by the power of our Lord Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>THy Name (O Lord) be praiſed for all the benifits that thou moſt graciouſly doſt be<g ref="char:EOLhyphen"/>ſtow upon us for féeding our feble bodies when they are hungry, with plenty of thy good Crea<g ref="char:EOLhyphen"/>turs and ſtrengthening the imperfections of our members, by vertue of thy mighcy power, ſo that all and everie part of us, are hereby made apt and fit to follow our callings: And like conti<g ref="char:EOLhyphen"/>nuall thanks be given unto thee (O Lord) for all thy merciefull bleſſings thou vouchſafe to beſtow upon us, in preſerving us (both bodie and ſoule) even from the beginning of the world to this preſent, and from all theſe caſualities and temtations which we are incident unto through the frailt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of fleſh, and imperfection of nature: which graci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us gifts, we acknowledge to have received of thy mercifull goodnes, and for the merit of our Lord and Saviour: In whoſe name we render <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hée all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, praiſe, and thanks, from this time forth for ever more. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:9"/>
+               <head>Grace before Meat.</head>
+               <p>WHether ye eat or drink, or whatſoeve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye do elſe, let all be done to the praiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God; whom we beſéech to bleſſe us with o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> meat and drink, through Chriſt our Lord <hi>Amen</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <p>CHriſt which at his leſt Supper gave him ſelfe unto us, promiſing his body to be cru<g ref="char:EOLunhyphen"/>cified, and his blood to be ſhed for our ſinnes<g ref="char:punc">▪</g> bleſſe us and our meat. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>This prayer may be annexed to the end o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every Grace, eſpecially thoſe which be the ſhorteſt.</head>
+               <p>GOd preſerve his Church God bleſſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nobility and the Commons: God defen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the favourers of the Goſpell,, and make us al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> faithfull in the ſame: God ſend the Goſpell <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> joyfull and frée paſſage throughtout the world, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> euery one may live uprightly in their calling, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the glory of God, through the me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its of our Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Saviour Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="graces">
+            <pb facs="tcp:32069:9"/>
+            <head>Godly GRACES to be ſaid after Meales.</head>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>LL Glory, honour, and immor<g ref="char:EOLhyphen"/>tall praiſe, be given unto thee (O eternall God) the which haſt fed us wretched ſinners e<g ref="char:EOLhyphen"/>ven from our Creation in our Mothers womb. We be begot<g ref="char:EOLhyphen"/>ten, conceived and borne in ſin O Lord have mercy upon us we beſeech thée, forgive us our ſins, illuminate our hearts and aſſiſt us with thy holy ſpirit, to conſider that we receive all things needfull both for our ſoules and bodies even at thy hand, and to give thée moſt heartie thanks, and continuall praiſe for ever, world without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>FAther of bounty, and God of our ſtrength, from whoſe liberall hand we have received
+<pb facs="tcp:32069:10"/> this nouriſhment of our earthly bodies, grant that the fulneſſe thereof may not breed in us a dulneſſe of ſpirit, or neglect of thankfulneſſe, but that we may be more and more inflamed to ſerve thée, and bring for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the fruits of a lively Faith by our thankſgiving, through Ieſus Chriſt our Lord and onely Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>GRant (O moſt mercifull Father) that our hunger &amp; thurſt being ſatisfied with the muderate uſe of theſe thy good gifts and Creatures ſanctified with thy holy word, we may both in body and mind be apt and able to doe good works, to the glory of thy moſt holy name. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>HOnour and praiſe be given to our hea<g ref="char:EOLhyphen"/>venly Father, by whoſe liberality our bodies here are not onely refreſhed, but alſo moſt mercifully hath given us his onely Son our Saviour Ieſus Chriſt, to feed our woun<g ref="char:EOLhyphen"/>ded ſoules with his precious bodie and blood, ſhed on the Croſſe, which is the lively bread, meat and drinke to every true faithfull peni<g ref="char:EOLhyphen"/>tent ſoule: wherefore let us continually praie for grace, that wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his heavenly food we may
+<pb facs="tcp:32069:10"/> ſpiritually be made ſtrong in all good and godly workes, as lively members of Ieſus Chriſt: to whom be all power, honour and glory, now and ever, world without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>
+                  <hi>O</hi> Lord God Almighty and moſt dear Fa<g ref="char:EOLhyphen"/>ther, thou haſt not onelie given unto us meat and drinke to ſuſtaine theſe our mortal bodies, but thou haſt likewiſe given unto us thy bleſſed word, which is the onely food of our immortall ſoules, through our Lord and Sa<g ref="char:EOLhyphen"/>viour Ieſus Chriſt, to whom therefore with thée and the Holy Ghoſt, be all honour, praiſe and thanks, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat,</head>
+               <p>
+                  <hi>O</hi> Lord, which art the Creator of all crea<g ref="char:EOLhyphen"/>tures, and haſt prepared food for them according to the nature of their Creation: we moſt heartily thanke thee, for theſe thy crea<g ref="char:EOLhyphen"/>tures, which at this time we haue received in thy name, beſéeching the (O Father) that as our bodies are now by theſe gifts refreſhed: our ſoules may be alſo nouriſhed with the food of everlaſting life, in thy moſt holy Teſtament confirmed with the blood and death of Ieſus
+<pb facs="tcp:32069:11"/> Chriſt thy ſone our Saviour. To whom with thée and the holy Ghoſt be al honour, glory and praiſe, for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>
+                  <hi>O</hi> Moſt gracious God, and louing Father in Chriſt Ieſus, who by thy mightie power and marcifull goodneſſe, hath created <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of no thing, and given us a perfect beaing, and having loſt all happineſſe, haſt reſtored us to grace through thy mercy, and now at this time hy thy mighty providence preſently fed us, for which thy name bee bleſſed and praiſed both now and for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat,</head>
+               <p>THanks bee unto the (O Lord God Al<g ref="char:EOLhyphen"/>mighty, moſt dear Father of Heaven) for giving us our food in due ſeaſon, for opening thy mercifull hand, and ſtlling us with thy bleſſing. And we beſeech thee for thy Sonnes ſake Ieſus Chriſt, not onely to preſerve us al<g ref="char:EOLhyphen"/>way from abuſing the ſame: but alſo to ſend us thy grace; that we may ever be thankfull unto thée therefor. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:11"/>
+               <head>Grace after Meat.</head>
+               <p>THanks be unto thee (O Lord God Al<g ref="char:EOLhyphen"/>mighty, moſt dear Father of Heaven) for certifying us by thy bleſſed word, that all kinde of meat is cleane. And we beſeech thee ſend us thy grace that we may alway thankfully re<g ref="char:EOLhyphen"/>ceive the ſame, not onely without ſuperſtition or ſerupuloſity of conſcience, but alſo without grieving or offending our brethren, and ſo to walke in the way of Godly live and charity, that with our meat we never deſtroy him for whom thy Sonne Ieſus Chrih died as well as for us.</p>
+            </div>
+            <div type="grace">
+               <head>Grace after Supper.</head>
+               <p>THanks bee unto thée O Lord God Al<g ref="char:EOLhyphen"/>mighty, moſt dear Father of Heaven for ordaining thy creaturs to be the food and ſuſte<g ref="char:EOLhyphen"/>nance unto our bodies, and haſt ſanctified them by thy bleſſed Word. We beſeech thee make us to increaſe in ſtedfaſtneſſe of thy Faith in per<g ref="char:EOLhyphen"/>fect knowledge of thy Truth, and in continu<g ref="char:EOLhyphen"/>ance of Prayer unto thee, that to us alſo they may be ſanctifiod and holy, and that we may ever thankfully receive them, to the glory of thy holy Name. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:12"/>
+               <head>Grace after Meat.</head>
+               <p>THe God of peace and love vouchſafe al<g ref="char:EOLhyphen"/>waies to dwell with us &amp; thou Lord have mercie upon us, who having ſatisfied our hun<g ref="char:EOLhyphen"/>gry appetites with corporall food (the nouriſh<g ref="char:EOLhyphen"/>ment of our weak bodies) wilt be pleaſed alſo to féed our ſoules with the bleſſed taſt &amp; comfort of thine eternal word, that we being made mem<g ref="char:EOLhyphen"/>bers of that body of which Chriſt Ieſus thy ſon is head, may <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earve thee in all truth &amp; faithful<g ref="char:EOLhyphen"/>neſſe, both to the end, and in the end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after meat.</head>
+               <p>THe God of peace and love, vouchſafe al<g ref="char:EOLhyphen"/>way to dwell with us and thou Lord have marcy upon us glory honovr &amp; praiſe be given to thee O Lord which haſt fed us from our ten<g ref="char:EOLhyphen"/>der age, and giveſt ſuſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance to every living thing, repleniſh our hearts with joy &amp; gladneſſe that we alwaies having ſufficient, may be rich and plentifull in all good works, through our Lord Ieſus Chriſt. So be it.</p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>WE thank thee, O moſt mercifull Lord and Saviour Ieſus Chriſt, for the gifts wherewith we have refreſhed our hungry bodies, and like as thou haſt now given us meat needfull to the comfort and heaith of our
+<pb facs="tcp:32069:12"/> bodies: ſo we beſeech thée al waies to give us thy word, that it may ever be to the comfort and health of our ſoules, which liveſt and raineſt with the Father and the holie Ghoſt world without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat,</head>
+               <p>WHatſoever you de in word or deod, do all in the name of our Lord Ieſus Chriſt, giving thanks unto God the Father by him, to whom all bleſſing, glory, wiſedome, thanks, honour, power, and might be rendred, forevermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <p>WE thank thée (O heavenly Father) that of thy abundant goodneſſe haſt this day ſent us food in due ſeaſon to nouriſh theſe our more all bodies with, beſéeching thée alſo of thine infinite mercy to pardon and forgive all our offences, which we have commited againſt thy divine Maieſtie, that we may this night reſt in thée with quiet Conſcience, abiding thy holy hand in the morning, to raiſe us to do the thing which ſhall be pleaſant in thy ſight, to thy glory and our ſoules health Grant this (O Father) for thy dearely beloved Sonnos ſake Ieſus Chriſt our ever laſting Saviour. To whom with thée and the holy Ghoſt, be all honour glo<g ref="char:EOLhyphen"/>ry and praiſe for ever and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:13"/>
+               <head>Grace after Meat.</head>
+               <p>WEe render thee all laud and praiſe (moſt loving Father) for thy gracious favour in feeding our bodys at this preſent with ſufficent nuriſhment, and for all other thy gra<g ref="char:EOLhyphen"/>cious comforts communicated unto us, where<g ref="char:EOLhyphen"/>by wee are refreſhed and cheriſhed; ſo that through thy mercie we are enabled the better to ſerve thee, and glorifie thy name, and made more apt to follow our callings which thou haſt appointed us: for which we returne thee all praiſe and thanks, now at this time and for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="grace">
+               <head>This Prayer may be joyned to any Grace whatſoever.</head>
+               <p>GOd ſave his univerſal Church God com<g ref="char:EOLhyphen"/>fort all that are comfortleſs, and continue his Goſpel amongſt us, and ſend us Peace and Truth in Chriſt Ieſus our Lord and only bleſ<g ref="char:EOLhyphen"/>ſed Saviour, and God forgive us all our ſinnes <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="graces">
+            <pb facs="tcp:32069:13"/>
+            <head>Here follow divers Fruit-Full GRACES in Meeter.</head>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">A</seg>Lmighty Lord and eternal King,</l>
+                  <l>Which made the Heavens and every thing.</l>
+                  <l>Grant unto us that perfect be,</l>
+                  <l>To taſt the food that here we ſée,</l>
+                  <l>As things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>repar'd for natures need.</l>
+                  <l>For thou (O Lord) haſt ſo decreed,</l>
+                  <l>And to be thankfull for the ſame,</l>
+                  <l>Praiſing for aie thy holy name.</l>
+               </lg>
+               <lg>
+                  <l>Preſerve the univerſall Church,</l>
+                  <l>our Common-wealth defend:</l>
+                  <l>Grant that thy people may enjoy</l>
+                  <l>thy peace unto the end. <hi>Amen.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:14"/>
+               <head>Grace before Meat.</head>
+               <l>AL you that heare preſent be,</l>
+               <l>and do in tend to eat:</l>
+               <l>Marke well what gods word ſaith to ye.</l>
+               <l>of this your feed and meat.</l>
+               <l>Meat doth not (as Saint <hi>Paul</hi> doth ſay)</l>
+               <l>to God the near us bring:</l>
+               <l>Or if we eat nothing, it may</l>
+               <l>us hinder any thing.</l>
+               <l>But take you head your liberty</l>
+               <l>be not offence to other:</l>
+               <l>Nor ye yet do you that willingly</l>
+               <l>whereby to hurt your brother.</l>
+               <l>Therefore pray we to God on high,</l>
+               <l>that he will give vs might,</l>
+               <l>To do doe all things to edifie,</l>
+               <l>and keep his Lawes aright,</l>
+               <l>And qleſſe us and our meats alſo,</l>
+               <l>and make us all accord:</l>
+               <l>That we may love both friend and foe,</l>
+               <l>and braiſe our God the Lord.</l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>ALL yée that now here preſent be,</l>
+               <l>Lift up your he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rts to God with me,</l>
+               <l>Praiſe ye his name with heart and mind,</l>
+               <l>For thoſe his gifts which we here find.</l>
+               <pb facs="tcp:32069:14"/>
+               <l>To feed our bodies he hath them ſent:</l>
+               <l>Our wicked lives let us repent,</l>
+               <l>Deſtring him our ſoules to feed</l>
+               <l>With heavenly food whith we doe néed.</l>
+               <l>
+                  <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <lg>
+                  <l>ALl things th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t now be in this world,</l>
+                  <l>are nothing elſe but vanity:</l>
+                  <l>And very great the number is,</l>
+                  <l>that are opreſt with miſery.</l>
+                  <l>Be louing unto them therefore,</l>
+                  <l>and mercy to them ſhow:</l>
+                  <l>For when that death approacheth you,</l>
+                  <l>your head ſhall be full low.</l>
+                  <l>Then will it be too late for you,</l>
+                  <l>mercie to aske and have:</l>
+                  <l>If that you turne your eares away,</l>
+                  <l>when that the poore doe crave.</l>
+                  <l>Ceaſe not therefore to doe them good,</l>
+                  <l>while that yee here remaine:</l>
+                  <l>For they are bought with Chriſt his blood,</l>
+                  <l>and that ſhall be our gaine.</l>
+               </lg>
+               <lg>
+                  <l>Good Lord bleſſe us, and all that we ſhall</l>
+                  <l>receive of thy goodneſſe.</l>
+               </lg>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:15"/>
+               <head>Grace before meat.</head>
+               <l>AS to the ſick all pleaſant things,</l>
+               <l>have ſtill unſavery taſt,</l>
+               <l>So ſhall Gods gifts be unto us,</l>
+               <l>if vainelie we them waſte.</l>
+               <l>Take heed therefore, ſaith Chriſt our Lord,</l>
+               <l>that ſurfetting you ſhun,</l>
+               <l>Let not your hearts with banquiting</l>
+               <l>be drownd'd and overcome.</l>
+               <l>Receive Gods gifts with given thanks,</l>
+               <l>and natuers weakneſſe feed:</l>
+               <l>When you have done remember thoſe</l>
+               <l>which want and ſtand in need.</l>
+               <l>So God ſhall bleſſe and eke increaſe</l>
+               <l>your basket and your ſtore,</l>
+               <l>And give you life in Chriſt our Lord,</l>
+               <l>which lives forevermore.</l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>AS Man is made a Soveraigne Lord,</l>
+               <l>and Prince alone to raigne:</l>
+               <l>To whom as ſubiects, Fiſh and Fowle</l>
+               <l>are made to him as gaine:</l>
+               <l>Both land and beaſts, both hearb and tree,</l>
+               <l>both gold and ſilver pure.</l>
+               <l>The wind, the aire, both Sun and Moon,</l>
+               <l>for ever to endure:</l>
+               <pb facs="tcp:32069:15"/>
+               <l>And as they ſerve him at his need.</l>
+               <l>as Subjects in their kind,</l>
+               <l>For wealth, for eaſe, and for food,</l>
+               <l>to cheere his weary mind,</l>
+               <l>And none of them deny his will,</l>
+               <l>as Gods appointment is,</l>
+               <l>So now that man doth them excell,</l>
+               <l>we may diſcerne by this.</l>
+               <l>He hath a ſoule which muſt have raigne,</l>
+               <l>in life when fleſh is dead,</l>
+               <l>Which muſt with ſpirituall food of life,</l>
+               <l>continually be fed,</l>
+               <l>Nor yet with bread materiall,</l>
+               <l>compas'd with corne and graine:</l>
+               <l>But with the word and fleſh of Chriſt,</l>
+               <l>it muſt be fed certaine,</l>
+               <l>For which as for the reſt men ought,</l>
+               <l>moſt chefly to give praiſe</l>
+               <l>To God and Chriſt, which ſuccour is</l>
+               <l>to us at all aſſaies.</l>
+               <l>Therefore to God for food and ſtrength,</l>
+               <l>and wealth abundant ſtore,</l>
+               <l>And for the hope of loſſing life,</l>
+               <l>be praiſe forevermore. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>GIve thanks to God with one accord,</l>
+               <l>for that ſhall be ſet one this boord.</l>
+               <pb facs="tcp:32069:16"/>
+               <l>And ve not carefull what to eat:</l>
+               <l>to each thing living the Lord ſends meat.</l>
+               <l>For food he will not ſee you periſh,</l>
+               <l>but will you feed, foſter and cheriſh.</l>
+               <l>Take well in worth what he hath ſend,</l>
+               <l>and at this time be therewith content,</l>
+               <l>praſing God <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before meat.</head>
+               <l>MAns life preſerved is by food,</l>
+               <l>as God hath well decreed:</l>
+               <l>But on Gods grace and holy word;</l>
+               <l>our ſoules muſt daily féed:</l>
+               <l>Through want of food materiall,</l>
+               <l>the body ſoone doth pine:</l>
+               <l>So will the ſoule if long it lack</l>
+               <l>her ſpirituall food divine.</l>
+               <l>To the be praiſe then Father deare,</l>
+               <l>which at this time hath ſent.</l>
+               <l>Both for the ſoule and bodie food,</l>
+               <l>thy Children to content.</l>
+               <l>And we beſeech thée Chriſt, thy Church,</l>
+               <l>our Nobility and Stale to ſave:</l>
+               <l>That by there life in p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace long time,</l>
+               <l>the Goſpel we may have. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:16"/>
+               <head>Grace before Supper.</head>
+               <l>MAn liveth not onelie (Chriſt doth ſay)</l>
+               <l>by his materiall bread:</l>
+               <l>But ſure by every word of God,</l>
+               <l>'tis wherewith he is fed.</l>
+               <l>From earth ſprings food mans bodie to féed,</l>
+               <l>but Chriſt came from one high:</l>
+               <l>Which is the bred of life, that can</l>
+               <l>our ſoules aye nutrifie.</l>
+               <l>He gave his fleſh and ſhed his blood,</l>
+               <l>at his laſt Supper ſure:</l>
+               <l>And who ſo feed on him by Fath,</l>
+               <l>ſhall laſtingly endure.</l>
+               <l>Chriſt Ieſus bleſſe our ſupper now,</l>
+               <l>and worke in us thy grace:</l>
+               <l>And ſave thy Church, our State defend,</l>
+               <l>and ſoon thy foes deface. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>
+                  <hi>OF Dives</hi> and <hi>Lazarus,</hi>
+               </l>
+               <l>the Scripture telleth plaine,</l>
+               <l>How <hi>Dives</hi> lived in wealth and eaſe,</l>
+               <l>and <hi>Lazarus</hi> in great paine.</l>
+               <l>The rich man he was clothed well,</l>
+               <l>and fared of the beſt:</l>
+               <l>But <hi>Lazarus</hi> with hunger great,</l>
+               <l>could have but little reſt.</l>
+               <pb facs="tcp:32069:17"/>
+               <l>But full of ſoreslay crying ſtill,</l>
+               <l>but ſome man to releive him.</l>
+               <l>With crums that fell from <hi>Dives</hi> Table,</l>
+               <l>whereof no man did give him.</l>
+               <l>Thus periſhed poare <hi>Lazarus,</hi>
+               </l>
+               <l>and that for lack of food:</l>
+               <l>And alſo that rich glutton died,</l>
+               <l>for all his worldly good.</l>
+               <l>Therefore all ye that preſent be,</l>
+               <l>remember this thing well:</l>
+               <l>That how this man unmercifull</l>
+               <l>is buried now in hell.</l>
+               <l>From the which fiery torments great,</l>
+               <l>the Lord us all deliver:</l>
+               <l>And grant we may be mercifull.</l>
+               <l>while we live heare together,</l>
+               <l>Then ſhal we rainge with <hi>Lazarus,</hi>
+               </l>
+               <l>with joyes that be indurable,</l>
+               <l>Even by the blood of Ieſus Chriſt,</l>
+               <l>for health moſt profitable,</l>
+               <l>Now therefore Lord we thée beſeech,</l>
+               <l>to make us all conſent,</l>
+               <l>To pitty thoſe that have moſt need,</l>
+               <l>and eke our ſins repent. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:17"/>
+               <head>Grace before Meat.</head>
+               <lg>
+                  <l>
+                     <hi>O</hi> GOD that art our righteouſneſſe,</l>
+                  <l>Lord heare us when we call;</l>
+                  <l>Of thy goodneſſe we pray thée bleſſe</l>
+                  <l>both us and our meats all:</l>
+                  <l>So that we do not uſe the ſame,</l>
+                  <l>but only to our néed:</l>
+                  <l>Wherefore we praiſe thy holy name,</l>
+                  <l>in thought, in word, and déed. <hi>Amen.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>DVſt, Earth and Aſhes is our ſtrength,</l>
+                  <l>our glorie fraile and vaine:</l>
+                  <l>From Earth we come, to earth at length</l>
+                  <l>we ſhall returne againe:</l>
+                  <l>To day we feed on fleſh of beaſts,</l>
+                  <l>of fouls and divers fiſh</l>
+                  <l>To morrow for the crawling wormes,</l>
+                  <l>our ſelves become a diſh:</l>
+                  <l>Loe thus we may behold and ſee</l>
+                  <l>our frailty what it is:</l>
+                  <l>Let Faith and Prayer be the way,</l>
+                  <l>to bring us unto bliſſe. <hi>Amen.</hi>
+                  </l>
+                  <l>The whole eſtate of Chriſt his Church,</l>
+                  <l>our Nobility, of this Land alſe</l>
+                  <l>God mightily preſerve and kéepe,</l>
+                  <l>from force of mortall foe:</l>
+               </lg>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:18"/>
+               <head>Grace before Meat.</head>
+               <lg>
+                  <l>REceive your Meat without grudging,</l>
+                  <l>Take heed ye never abuſe the ſame:</l>
+                  <l>Give thanks to God, for every thing,</l>
+                  <l>And alwaies praiſe his holy Name.</l>
+                  <l>Who doth not ſo, is ſore to blame;</l>
+                  <l>No evill example ſee that you give,</l>
+                  <l>Thus doth Gods Word teach us to live.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>God ſave his Church unto the end,</hi>
+                  </l>
+                  <l>
+                     <hi>God grant we may our lives amend. Amen.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <lg>
+                  <l>THe Lord, that did all things create,</l>
+                  <l>for Man to ſerve him at his néed,</l>
+                  <l>Bleſſe all that which we drinke or eate,</l>
+                  <l>and give it ſtrength our fleſh to féed,</l>
+                  <l>For whatſoever ſhall nouriſh in déed,</l>
+                  <l>Whether it be good for man or beaſt,</l>
+                  <l>muſt by his mighty power be bleſt.</l>
+                  <l>And ſith we have an inward Man,</l>
+                  <l>Which by no meanes, obtaine we can</l>
+                  <l>but by him that is heauenly bread,</l>
+                  <l>And eke of ſpirituall things the head,</l>
+                  <l>Let us ſtill féed on him in mind,</l>
+                  <l>that gave his fleſh to féed man-kind:</l>
+                  <pb facs="tcp:32069:18"/>
+                  <l>Thus doing we ſhal runne our race,</l>
+                  <l>with out the want of any foode:</l>
+                  <l>And at the laſt come to that place,</l>
+                  <l>that promiſed was to <hi>Abrahams</hi> brood,</l>
+                  <l>And by faith waſh in Chriſt his blood:</l>
+                  <l>where evermore we ſhall him ſée,</l>
+                  <l>That is one God in perſons thrée.</l>
+               </lg>
+               <lg>
+                  <l>O Lord preſerve in health and peaee,</l>
+                  <l>the Nobility of this Land:</l>
+                  <l>Thy holy Spirit in them increaſe,</l>
+                  <l>that they may be a true guide unto this Land.</l>
+                  <l>A Sword to cut off Popery cleane,</l>
+                  <l>that they and we may hold that truth,</l>
+                  <l>Which they have loved from there youth.</l>
+               </lg>
+            </div>
+            <div type="grace">
+               <head>Grace before meat.</head>
+               <l>TO eate and drinke doth ſmall availe,</l>
+               <l>the World is all but vaine:</l>
+               <l>Except the Lord our hearts do gui<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>our pleaſures are but pain.</l>
+               <l>Grant us therefore, O Chriſt, that we</l>
+               <l>may all with one accord,</l>
+               <l>Not live to eate, but eate to live,</l>
+               <l>and live to praiſe the Lord.</l>
+            </div>
+         </div>
+         <div type="graces">
+            <pb facs="tcp:32069:19"/>
+            <head>Short Graces for young Children, when they firſt begin to ſpeak.</head>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>
+                  <hi>O</hi> Lord our God, to thee we pray,</l>
+               <l>to bleſſe our food which thou doſt ſend</l>
+               <l>And make us loue thy Lawes alway,</l>
+               <l>ſo that we may our lives amend.</l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>THe Lord of love and God of peace,</l>
+               <l>Of all good things that gives increaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>So bleſſe us, all and all our food:</l>
+               <l>As that we eat may to us good. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>HE that is King of Glorie,</l>
+               <l>and Lord over all:</l>
+               <l>Bring us to the Super</l>
+               <l>of life eternall. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>THough diet be thin,</l>
+               <l>and Table but ſmall,</l>
+               <l>Yet ere you begin,</l>
+               <l>be thankfull for all.</l>
+            </div>
+         </div>
+         <div type="graces">
+            <pb facs="tcp:32069:19"/>
+            <head>Sundry GRACES in Meeter to be ſaid after Meales</head>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <l>ALl fleſh is graſſe, Mans life is vaine,</l>
+               <l>his pomp is but a flower,</l>
+               <l>He féeds his corps and thinks to live,</l>
+               <l>yet dead within an houre.</l>
+               <l>It is not fleſh of beaſts nor fowle</l>
+               <l>that can mans life maintaine:</l>
+               <l>For food of bodie oft we ſée,</l>
+               <l>nought elſe to be but vaine.</l>
+               <l>Then feed our ſouls, ſweet Saviour Chriſt,</l>
+               <l>with bread of life ſo pure.</l>
+               <l>That thought our fleſh be earth, yet make</l>
+               <l>our ſoules aie to indure,</l>
+               <l>Yea kéep thy Church,</l>
+               <l>in Chriſtian love and peace:</l>
+               <l>And let thy Kingdome come with ſpéed.</l>
+               <l>to all joyes increaſe.</l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>ALl laud and praiſe be to the Lord,</l>
+               <l>for theſe good gifts of thine:</l>
+               <l>Whereby we now refreſhed be,</l>
+               <l>and for thy word divine.</l>
+               <pb facs="tcp:32069:20"/>
+               <l>Which teacheth thoſe that able be,</l>
+               <l>whom thou haſt bleſt with ſtore:</l>
+               <l>To eaſe them that have need of help,</l>
+               <l>when they doe aske therefore.</l>
+               <l>Now as the bread our bodies need,</l>
+               <l>our ſoules ſo need thy word</l>
+               <l>Which thou doeſt give that we may live,</l>
+               <l>thanks be to thée O Lord. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat,</head>
+               <l>AS thou haſt fed our bodies Lord,</l>
+               <l>ſo feed our ſoules likewiſe:</l>
+               <l>And make us mindfull of the poore,</l>
+               <l>as riches doe ariſe.</l>
+               <l>Increaſe thy flock, preſerve our Church,</l>
+               <l>thy grace and peace us ſend,</l>
+               <l>That we may lead a godly life,</l>
+               <l>and make a faithfull end. <hi>Amen,</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Geace after meat.</head>
+               <l>FOr food and health and all the reſt,</l>
+               <l>the Lord be thanked and alwaies ble<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Who with his grace ſo ſtore us ſtill,</l>
+               <l>that we ſwerve no way from his will,</l>
+               <l>Our Nobility God kéep, the Nation God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>and grant us long true friends to have. <hi>Am<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:20"/>
+               <head>Grace after Meat.</head>
+               <l>LIke as thou haſt (Almighty Lord)</l>
+               <l>refreſhed us unworthy here</l>
+               <l>With meats made holy by thy Word,</l>
+               <l>ſo let thy grace (O Lord) appeare,</l>
+               <l>To make us mindfull of the poore,</l>
+               <l>Which lives in woe and great diſtreſſe,</l>
+               <l>And to be thankfull evermore,</l>
+               <l>for theſe thy guifts,, and all goodneſſe,</l>
+               <l>Which <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e confeſſe procéed from thée,</l>
+               <l>to whom be praiſed eternally. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <l>NOw let us pray unto the Lord,</l>
+               <l>And yeld him thanks with one accord</l>
+               <l>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r that which we received have,</l>
+               <l>Though nature no ſuch plenty crave.</l>
+               <l>Much bound we are to God above,</l>
+               <l>Who hath vouchſafed us to love,</l>
+               <l>That from amonge the reſt that went,</l>
+               <l>We take repaſt where is no ſcant.</l>
+               <l>Lord grant us mindfull for to be,</l>
+               <l>Of ſuch that live in poverty.</l>
+               <l>For we confeſſe it pleaſed God,</l>
+               <l>We might with them taſt of his rod.</l>
+               <l>God ſave the Church and Commons of this Land</l>
+               <l>God ſend us peace in Chriſt. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:21"/>
+               <head>Grace after Meat.</head>
+               <lg>
+                  <l>
+                     <hi>O</hi> Lord, we thanke thée for this food</l>
+                  <l>we have receiv'd of thée,</l>
+                  <l>Lord grant us gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce our lives to lead,</l>
+                  <l>more thankfull for to be. <hi>Amen.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>God ſave his Church the Poore defeed:</l>
+                  <l>God ſend us peace in Chriſt, <hi>Amen</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="grace">
+               <head>Grace after Supper.</head>
+               <l>OVr daies do paſſe as this day now</l>
+               <l>is come unto an end:</l>
+               <l>But Gods good grace ſhall never faile</l>
+               <l>his Children to defend,</l>
+               <l>As thus our Supper Chriſt hath bleſt,</l>
+               <l>in joy to end the ſame:</l>
+               <l>Mo we beſéech our Father dear,</l>
+               <l>in Ieſus Chriſt his name,</l>
+               <l>That we may be participates,</l>
+               <l>(whom he hath bought ſo dear)</l>
+               <l>Of his great Supper, where his face</l>
+               <l>ſhall ſhine on us moſt clear,</l>
+               <l>When as the Lamb ſhall make his feaſt</l>
+               <l>in Heaven where is ſuch ſtore:</l>
+               <l>Of which who taſted once no doubt</l>
+               <l>ſhall never hunger more.</l>
+               <pb facs="tcp:32069:21"/>
+               <l>To thée be praiſe, oh God and Chriſt,</l>
+               <l>thy little flock defend:</l>
+               <l>Preſerve our Land and come with ſpéed,</l>
+               <l>our troubls to amend. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace before Meat.</head>
+               <l>THanks be to God in Heaven above,</l>
+               <l>for he hath fed us well:</l>
+               <l>God grant us grace from heaven above,</l>
+               <l>to féed our ſelves as well.</l>
+               <l>Repentance with the fruit thereof,</l>
+               <l>that we never forgot:</l>
+               <l>Tender (O Lord) thy holy Church,</l>
+               <l>and Rules in it ſet,</l>
+               <l>And ever more upon <hi>England,</hi>
+               </l>
+               <l>thy grace and truth down ſend:</l>
+               <l>That it may be the Word and Grace,</l>
+               <l>all ſinfull ſoules amend.</l>
+               <l>And finaly all ſuch as be</l>
+               <l>afflicted for thy Wordr</l>
+               <l>Comfort them by thy holy Ghoſt:</l>
+               <l>Through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <pb facs="tcp:32069:22"/>
+               <head>Grace after Meat.</head>
+               <l>
+                  <hi>O</hi> Bleſſed God through Ieſus Chriſt,</l>
+               <l>that féedſt us euer more:</l>
+               <l>Give us thy grace, that we alwaies,</l>
+               <l>may give thée thanks therefore. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <l>
+                  <hi>O</hi> Lord God the benefits,</l>
+               <l>whereof we have had ſtore:</l>
+               <l>We knowledge all to be thy guifts,</l>
+               <l>to thée be thanks therefore. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="grace">
+               <head>Grace after Meat.</head>
+               <l>LEt us give thanks to God our Lord,</l>
+               <l>that féedeth us alway:</l>
+               <l>Beſéeching him that with his Word,</l>
+               <l>like wiſe be fed we may.</l>
+            </div>
+            <div type="grace">
+               <head>Grace after meat.</head>
+               <lg>
+                  <l>FOr Meat, Drink and tis,</l>
+                  <l>thanks be given to our Lord Ieſus.</l>
+                  <l>Amen.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Who uſeth not often before meat to pray:</hi>
+                  </l>
+                  <l>
+                     <hi>Nor thanks to God after, but ſo goes his way</hi>
+                  </l>
+                  <l>
+                     <hi>He ſitting or riſing, ſo letting Grace paſſe</hi>
+                  </l>
+                  <l>
+                     <hi>Doth eat like a ſwine, and departs like an Aſſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>Here ends the Book of Graces.</trailer>
+         </div>
+         <div type="prayers">
+            <pb facs="tcp:32069:22"/>
+            <div type="prayer">
+               <head>Evening PRAYER.</head>
+               <p>
+                  <seg rend="decorInit">O</seg> GOD of Angels and Men, the founder of all Creatures both viſible and inviſible, in whoſe hand is life &amp; death: I wretched ſinner (unworthy of thy bene<g ref="char:EOLhyphen"/>fits) moſt humbly beſeech thee to bleſſe me, and with thy holie Angell aſſiſt me this night, which haſt made me of earth &amp; doeſt nouriſh me by thy creaturs: pardon me, which have ſo offened thée, in thought, word and deed: and grant me grace hereafter to feare thy wrath and heavy diſpleaſure, for thy bleſſed Sons ſake, our Lord and onelie Saviour Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>Our Father which art in Heaven, &amp;c.</head>
+               <p>
+                  <hi>O</hi> Lord ſuccour us, ſhew me the light of thy countenance, in thee my ſoule truſteth, and my heart rejoyceth.</p>
+               <p>O give me underſtanding and I will kéep thy Law, yea I will keep it with my whole heart.</p>
+               <pb facs="tcp:32069:23"/>
+               <p>Encline my heart unto thy teſtimonies, then ſhall I praiſe and magnifie thy bleſſed name for ever.</p>
+               <p>According to the greatneſſe of thy mercies, O God forgive me my ſinnes.</p>
+               <p>Remember not the number of my ſinnes, but according to the multitude of thy mercies, deli<g ref="char:EOLhyphen"/>ver me from the paines due to them. Grant this O Saviour for thy mercies ſake.</p>
+               <p>Teach me to number my daies, that I may apply my heart to learn thy wiſdome: and ſo ſtrengthen me with thy holie ſpirit, that I ſwerve not from thy law.</p>
+               <p>Deale not with me as I have deſerved, but call to remembrance thy render mercies which have been ever of old, and caſt me not from thee in thy heavie diſpleaſure, leaſt I be conſumed and brought to nought. Heare me for thy mer<g ref="char:EOLhyphen"/>cies ſake.</p>
+               <p>Vnto thée I wretched ſinner do come cra<g ref="char:EOLhyphen"/>ving of thée thy mercie: Incline therefore thine eare unto my caſting, and conſider the requeſt of my heart.</p>
+               <p>Lighten me thy ſervant, with the bright lamp of thy holie Spirit, thereby to ſubdue the bodie of ſin with all the luſts thereof, that I may be made obedient in will and mind to thy holie Lawe.</p>
+               <pb facs="tcp:32069:23"/>
+               <p>Dear Saviour, to whom it is moſt eaſie to do all things, then for me to thinke any one good thought, give power unto thy ſervant, that I may with a ſtrong Faith, vanquiſh and ſub<g ref="char:EOLhyphen"/>due whatſoever may cauſe me to rebell againſt thy bleſſed will.</p>
+               <p>Excéeding true it is, that <hi>Every one that ſaith, Lord, Lord, ſhall not enter into the Kingdom of Heaven, <hi>Mat.</hi> 7.21.</hi> Strengthen me therefore thy ſervant, I beſéech thée, with the Power of thy right hand, againſt all the mali<g ref="char:EOLhyphen"/>ciouſneſſe of the old wily Serpent. Repleniſh my heart with thy wiſdome, and comfort my ſoule with thy ſweet, comfortable and health<g ref="char:EOLhyphen"/>full promiſes: and let thy mercies heale mine infirmities.</p>
+               <p>Yet once again I call upon the in theſe my meditations: O let thine ear be open to heare the Prayers which I thy ſervant make unto thee this day: and grant that I may alwaies aske of thée in ſuch ſort as thou requireſt, to the honour, praiſe and glory of thy name, to the furtherance of thy word, the profit of my niegh<g ref="char:EOLhyphen"/>bour, and to my conſolation and comfort: through the merits of thy bitter death and paſſion.</p>
+               <p>
+                  <hi>Glory be to the Father, and to the Son, and to the holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>As it was was in the beginning, is now, &amp;c.</hi>
+               </p>
+               <pb facs="tcp:32069:24"/>
+               <p>SAve us (O Lord) waking, and kéepe us ſlée<g ref="char:EOLhyphen"/>ping, that we may watch in Chriſt, and reſt in peace. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>When you are ready to goe into your Bed, Say,</head>
+               <l>
+                  <hi>I</hi> Go to Bed as to my Grave,</l>
+               <l>God knoweth when I ſhall wake:</l>
+               <l>My truſt is, that my Lord and God</l>
+               <l>will mercy on me take.</l>
+            </div>
+            <div type="prayer">
+               <head>When you are lying down in your Bed, Say,</head>
+               <p>
+                  <hi>I</hi> Lie down, in the name of the Father, and of Sonne, and of the Holy Ghoſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32069:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32069:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32069:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
